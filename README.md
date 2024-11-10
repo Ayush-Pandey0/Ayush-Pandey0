@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ayush-Pandey0
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and web designing
+
 
 
 <!---
