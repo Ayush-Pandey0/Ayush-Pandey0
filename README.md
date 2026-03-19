@@ -43,23 +43,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-kumar-pandey007">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Pandey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-pandey007)
 
-  <a href="https://leetcode.com/u/Ayushhhh3/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45px"/>
-  </a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Ayushhhh3/)
 
-  <a href="https://www.geeksforgeeks.org/profile/ayushpandey01">
-    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="45px"/>
-  </a>
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/ayushpandey01)
 
-  <a href="https://www.hackerrank.com/profile/ayushpandeyaa22">
-    <img src="https://img.icons8.com/fluency/48/hackerrank.png" width="45px"/>
-  </a>
-</p>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ayushpandeyaa22)
 
 ---
 
