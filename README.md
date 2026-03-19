@@ -47,13 +47,17 @@
   <a href="https://www.linkedin.com/in/ayush-kumar-pandey007">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
   </a>
-  
-  <a href="https://www.hackerrank.com/profile/ayushpandeyaa22">
-    <img src="https://img.icons8.com/fluency/48/hackerrank.png" width="45px"/>
+
+  <a href="https://leetcode.com/u/Ayushhhh3/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45px"/>
   </a>
 
-  <a href="https://www.hackerearth.com/@ayushpandeyaa22">
-    <img src="https://img.icons8.com/color/48/hackerearth.png" width="45px"/>
+  <a href="https://www.geeksforgeeks.org/profile/ayushpandey01">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="45px"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/ayushpandeyaa22">
+    <img src="https://img.icons8.com/fluency/48/hackerrank.png" width="45px"/>
   </a>
 </p>
 
