@@ -9,79 +9,78 @@
 
 ---
 
-## 🔥 **About Me**
+## 🔥 About Me
 - 🎓 CSE student passionate about building scalable web applications  
-- 💻 Skilled in **React.js, Node.js, Express.js, MongoDB (MERN Stack)**  
-- ⚡ Experience with **REST APIs, Authentication (OAuth), and Payment Integration (Razorpay)**  
-- 🧠 Strong foundation in **DSA, OOP, and problem solving**  
-- 🌱 Continuously learning and improving  
+- 💻 Skilled in MERN Stack  
+- ⚡ Experience with REST APIs, OAuth & Razorpay  
+- 🧠 Strong in DSA & Problem Solving  
+- 🌱 Always learning  
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
-</p>
-
-### ⚙️ Frameworks & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,mysql,linux,postman" />
 </p>
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 Featured Projects
 
-### 🚀 **Atlas & Arrow – Full Stack MERN Application**
-Scalable product catalog & order management system with real-time inventory, Razorpay payments, and Google OAuth authentication.  
-- Built using **React.js, Node.js, Express.js, MongoDB**  
-- Designed REST APIs and optimized backend performance  
-- Improved UI performance and reduced latency  
+### 🚀 Atlas & Arrow
+- Full stack MERN app with payments & auth  
+- Optimized APIs & performance  
 
----
+### 🌐 Volunteer Hub
+- Event + volunteer platform  
+- HTML, Tailwind, JS, PHP  
 
-### 🌐 **Volunteer Hub – Event & Volunteer Platform**
-Web platform for event creation and volunteer registration.  
-- Responsive UI using **HTML, Tailwind CSS, JavaScript**  
-- Backend with **PHP & MySQL**  
+### 🚍 Bus Booking System
+- C++ CLI project using OOP + file handling  
 
 ---
 
-### 🚍 **Bus Booking System**
-C++ based terminal application using OOP and file handling.
-
----
-
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-kumar-pandey007">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
   </a>
-  &nbsp;
+  
   <a href="https://www.hackerrank.com/profile/ayushpandeyaa22">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="45px" />
+    <img src="https://img.icons8.com/fluency/48/hackerrank.png" width="45px"/>
   </a>
-  &nbsp;
+
   <a href="https://www.hackerearth.com/@ayushpandeyaa22">
-    <img src="https://img.icons8.com/color/48/000000/hackerearth.png" width="45px" />
+    <img src="https://img.icons8.com/color/48/hackerearth.png" width="45px"/>
   </a>
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Pandey0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pandey0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Pandey0&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pandey0&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-Pandey0&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Pandey0&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
