@@ -2,7 +2,7 @@
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ayush%20Kumar%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AWS%20%7C%20DSA&descSize=18&descAlignY=75&descColor=6EE7B7" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Full+Stack+Apps;☁️+AWS+EC2+%7C+S3+%7C+CloudFront+%7C+NGINX;⚡+Redis+Caching+%7C+Socket.IO+%7C+REST+APIs;🧠+200%2B+DSA+Problems+Solved;🔥+MERN+Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Apps;AWS+EC2+%7C+S3+%7C+CloudFront+%7C+NGINX;Redis+Caching+%7C+Socket.IO+%7C+REST+APIs;200%2B+DSA+Problems+Solved;MERN+Stack+Engineer" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ const ayush = {
   strengths: ["REST APIs", "OAuth 2.0", "JWT Auth", "Real-time Apps"],
   dsa: "200+ problems solved on LeetCode & GeeksforGeeks",
   currentlyLearning: ["Microservices", "System Design", "Terraform"],
-  openTo: "Full-time SDE roles & Hackathons 🚀"
+  openTo: "Full-time SDE roles & Hackathons"
 };
 ```
 
@@ -52,28 +52,30 @@ const ayush = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Atlas & Arrow</h3>
+      <h3>🛒 Atlas &amp; Arrow</h3>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
       <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square&logo=react" />
-      <p>Production-grade <b>product catalog & order management</b> platform with Razorpay payments and Google OAuth 2.0.</p>
+      <p>Production-grade <b>product catalog &amp; order management</b> platform with Razorpay payments and Google OAuth 2.0.</p>
       <ul>
         <li>~30% backend efficiency via modular REST APIs</li>
         <li>~25% lower UI latency with optimized MongoDB queries</li>
-        <li>Secure payments & seamless Google login</li>
+        <li>Secure payments &amp; seamless Google login</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" />
       </p>
-      <a href="https://atlasarrow.me"><img src="https://img.shields.io/badge/🌐 Live Demo-6EE7B7?style=for-the-badge" /></a>
+      <a href="https://atlasarrow.me"><img src="https://img.shields.io/badge/Live%20Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      &nbsp;
+      <a href="https://github.com/Ayush-Pandey0/Atlas_Arrow.github.io"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔗 ClipURL</h3>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-AWS+Redis-FF9900?style=flat-square&logo=amazon-aws" />
-      <p>Production-grade <b>URL shortener & analytics platform</b> with Redis caching and full AWS infrastructure.</p>
+      <img src="https://img.shields.io/badge/Stack-AWS%20%2B%20Redis-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <p>Production-grade <b>URL shortener &amp; analytics platform</b> with Redis caching and full AWS infrastructure.</p>
       <ul>
         <li>~35% DB load reduction via Redis caching</li>
         <li>~30% faster redirections with optimized API flow</li>
@@ -83,16 +85,18 @@ const ayush = {
         <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
       </p>
-      <a href="https://github.com/Ayush-Pandey0/scalable-url-shortener"><img src="https://img.shields.io/badge/📂 GitHub-24243e?style=for-the-badge" /></a>
+      <a href="https://github.com/Ayush-Pandey0/scalable-url-shortener"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      &nbsp;
+      <a href="https://github.com/Ayush-Pandey0/url-shortener-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✅ Task Manager</h3>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-MERN+Socket.IO-000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Socket.IO-010101?style=flat-square&logo=socket.io" />
       <p>Real-time <b>task management platform</b> with JWT auth and Socket.IO powered live updates.</p>
       <ul>
         <li>~30% better responsiveness via optimized queries</li>
@@ -101,18 +105,19 @@ const ayush = {
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
+      <a href="https://github.com/Ayush-Pandey0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Volunteer Hub</h3>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-HTML+PHP-777BB4?style=flat-square&logo=php" />
-      <p>Event & volunteer management platform connecting organizers and volunteers seamlessly.</p>
+      <img src="https://img.shields.io/badge/Stack-HTML%20%2B%20PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <p>Event &amp; volunteer management platform connecting organizers and volunteers seamlessly.</p>
       <ul>
-        <li>Event creation, volunteer registration & matching</li>
+        <li>Event creation, volunteer registration &amp; matching</li>
         <li>Responsive UI with Tailwind CSS</li>
         <li>PHP backend with MySQL database</li>
       </ul>
@@ -122,6 +127,7 @@ const ayush = {
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
+      <a href="https://github.com/Ayush-Pandey0/VOLUNTEER-PORTAL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -135,21 +141,21 @@ const ayush = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1984%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://leetcode.com/u/Ayushhhh3/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ayushpandey01"><img src="https://img.shields.io/badge/GeeksforGeeks-200%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://github.com/Ayush-Pandey0"><img src="https://img.shields.io/badge/GitHub-1984%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| ☁️ Cloud Computing | NPTEL | May 2025 |
-| 🤖 Build Generative AI Apps & Solutions | Infosys | Apr 2025 |
-| 💬 ChatGPT-4 Prompt Engineering | Infosys | Sep 2024 |
-| 🗄️ SQL (Basics) | HackerRank | Sep 2024 |
+<p align="center">
+  <a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/Cloud%20Computing-NPTEL%20%7C%20May%202025-blue?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://www.infosys.com/lex/index.html"><img src="https://img.shields.io/badge/Generative%20AI%20Apps-Infosys%20%7C%20Apr%202025-purple?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.infosys.com/lex/index.html"><img src="https://img.shields.io/badge/ChatGPT--4%20Prompt%20Eng-Infosys%20%7C%20Sep%202024-blueviolet?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/ayushpandeyaa22"><img src="https://img.shields.io/badge/SQL%20Basics-HackerRank%20%7C%20Sep%202024-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+</p>
 
 ---
 
