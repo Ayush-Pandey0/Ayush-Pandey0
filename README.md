@@ -87,6 +87,8 @@ const ayush = {
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
       </p>
+      <a href="https://clipurl.live"><img src="https://img.shields.io/badge/Live%20Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      &nbsp;
       <a href="https://github.com/Ayush-Pandey0/scalable-url-shortener"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       &nbsp;
       <a href="https://github.com/Ayush-Pandey0/url-shortener-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -109,7 +111,7 @@ const ayush = {
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://github.com/Ayush-Pandey0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://taskmanger-4sy5.onrender.com/login"><img src="https://img.shields.io/badge/Live%20Demo-6EE7B7?style=for-the-badge&logo=render&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Volunteer Hub</h3>
@@ -151,10 +153,11 @@ const ayush = {
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/Cloud%20Computing-NPTEL%20%7C%20May%202025-blue?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
-  <a href="https://www.infosys.com/lex/index.html"><img src="https://img.shields.io/badge/Generative%20AI%20Apps-Infosys%20%7C%20Apr%202025-purple?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://www.infosys.com/lex/index.html"><img src="https://img.shields.io/badge/ChatGPT--4%20Prompt%20Eng-Infosys%20%7C%20Sep%202024-blueviolet?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/ayushpandeyaa22"><img src="https://img.shields.io/badge/SQL%20Basics-HackerRank%20%7C%20Sep%202024-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://github.com/Ayush-Pandey0/Certificates/blob/main/NPTEL%20CLOUD%20COMPUTING.pdf"><img src="https://img.shields.io/badge/Cloud%20Computing-NPTEL%20%7C%20May%202025-1572B6?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://github.com/Ayush-Pandey0/Certificates/blob/main/upload%20build%20generative%20ai%20infosys.pdf"><img src="https://img.shields.io/badge/Generative%20AI%20Apps-Infosys%20%7C%20Apr%202025-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://github.com/Ayush-Pandey0/Certificates/blob/main/gpt-4%20prompt%20infosys.pdf"><img src="https://img.shields.io/badge/ChatGPT--4%20Prompt%20Eng-Infosys%20%7C%20Sep%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://github.com/Ayush-Pandey0/Certificates/blob/main/sql_basic%20certificate.pdf"><img src="https://img.shields.io/badge/SQL%20Basics-HackerRank%20%7C%20Sep%202024-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://github.com/Ayush-Pandey0/Certificates/blob/main/Oracle%20Cloud%20Infrastructure%202025%20Certified%20DevOps%20Professional.pdf"><img src="https://img.shields.io/badge/OCI%20DevOps%20Professional-Oracle%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 </p>
 
 ---
@@ -163,11 +166,12 @@ const ayush = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Pandey0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pandey0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pandey0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-Pandey0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=Ayush-Pandey0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
