@@ -80,6 +80,7 @@ const ayush = {
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -221,14 +222,14 @@ const ayush = {
 |---|---|
 | 💻 LeetCode | 200+ Problems Solved |
 | 🌿 GeeksforGeeks | 200+ Problems Solved |
-| 🐙 GitHub | 1,987 Contributions (Last Year) |
+| 🐙 GitHub | 1,990 Contributions (Last Year) |
 | ⭐ Repositories | 34+ Public Repos |
 
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayushhhh3/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-200%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushpandey01)
-[![GitHub](https://img.shields.io/badge/GitHub-1987%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-Pandey0)
+[![GitHub](https://img.shields.io/badge/GitHub-1990%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-Pandey0)
 
 </div>
 
@@ -253,12 +254,6 @@ const ayush = {
 ---
 
 ## 📊 GitHub Stats
-
-<!-- 
-  FIX: github-readme-stats often fails due to rate limiting.
-  Using alternative providers: streak-stats (DenverCoder1) + github-stats (jstrieb) as primary,
-  with github-readme-stats as fallback for the language card.
--->
 
 <div align="center">
 
@@ -294,30 +289,6 @@ const ayush = {
   </picture>
 </div>
 
-> **Note:** To enable the contribution snake, add this GitHub Action to your profile repo at `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Ayush-Pandey0
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 <br/>
 
 ---
@@ -326,7 +297,7 @@ const ayush = {
 
 ```text
 🔭  Building a distributed notification service with Kafka + Redis Pub/Sub
-🌱  Deep-diving into System Design & Microservices Architecture  
+🌱  Deep-diving into System Design & Microservices Architecture
 👯  Open to collaborating on full-stack or backend-heavy OSS projects
 💬  Ask me about MERN stack, AWS deployments, or REST API design
 📫  Reach me at: ayushpandeyaa22@gmail.com
